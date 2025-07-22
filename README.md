@@ -1,6 +1,4 @@
-# 👋 Hi, I'm Baseer Hassan
-
-### 🧠 About Me
+### BASEER HASSAN
 
 I'm a competitive, production-ready **Data Scientist** with a passion for building intelligent systems that actually work outside notebooks. I specialize in extracting deep insights from complex data, designing robust machine learning pipelines, and delivering solutions that are both impactful and scalable.
 
@@ -8,9 +6,9 @@ My background combines rigorous participation in global ML competitions with han
 
 ---
 
-### 🛠️ Technical Stack
+### Technical Stack
 
-#### 🧠 Machine Learning & Deep Learning  
+#### Machine Learning & Deep Learning  
 <p align="left">
   <img src="https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white"/>
@@ -20,7 +18,7 @@ My background combines rigorous participation in global ML competitions with han
   <img src="https://img.shields.io/badge/-CatBoost-FFCC00?style=flat&logo=catboost&logoColor=black"/>
 </p>
 
-#### 🧱 Data Engineering  
+#### Data Engineering  
 <p align="left">
   <img src="https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=postgresql&logoColor=white"/>
   <img src="https://img.shields.io/badge/-Pandas-150458?style=flat&logo=pandas&logoColor=white"/>
@@ -28,7 +26,7 @@ My background combines rigorous participation in global ML competitions with han
   <img src="https://img.shields.io/badge/-MySQL-005C84?style=flat&logo=mysql&logoColor=white"/>
 </p>
 
-#### 🚀 MLOps & Deployment  
+#### MLOps & Deployment  
 <p align="left">
   <img src="https://img.shields.io/badge/-FastAPI-009688?style=flat&logo=fastapi&logoColor=white"/>
   <img src="https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white"/>
