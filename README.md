@@ -1,4 +1,4 @@
-### BASEER HASSAN
+### BASEER HASSAN SHAH
 
 I'm a competitive, production-ready **Data Scientist** with a passion for building intelligent systems that actually work outside notebooks. I specialize in extracting deep insights from complex data, designing robust machine learning pipelines, and delivering solutions that are both impactful and scalable.
 
