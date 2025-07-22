@@ -1,57 +1,48 @@
-<h1 align="center">Hi there, I'm <span style="color:#007acc">Baseer Hassan</span> 👋</h1>
+# 👋 Hi, I'm Baseer Hassan
 
-<p align="center">
-  <em>Data Scientist | AI Explorer | Kaggle Competitor | Production-Grade Model Builder</em>
+### 🧠 About Me
+
+I'm a competitive, production-ready **Data Scientist** with a passion for building intelligent systems that actually work outside notebooks. I specialize in extracting deep insights from complex data, designing robust machine learning pipelines, and delivering solutions that are both impactful and scalable.
+
+My background combines rigorous participation in global ML competitions with hands-on experience building full-stack ML systems — from raw data to deployed inference APIs. Whether it's medical imaging, sensor fusion, time series, or structured data, I bring engineering precision and creative problem-solving to the table.
+
+---
+
+### 🛠️ Technical Stack
+
+#### 🧠 Machine Learning & Deep Learning  
+<p align="left">
+  <img src="https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-Scikit--Learn-F7931E?style=flat&logo=scikit-learn&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-LightGBM-8BC34A?style=flat&logo=lightgbm&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-CatBoost-FFCC00?style=flat&logo=catboost&logoColor=black"/>
+</p>
+
+#### 🧱 Data Engineering  
+<p align="left">
+  <img src="https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-Pandas-150458?style=flat&logo=pandas&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-NumPy-013243?style=flat&logo=numpy&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-MySQL-005C84?style=flat&logo=mysql&logoColor=white"/>
+</p>
+
+#### 🚀 MLOps & Deployment  
+<p align="left">
+  <img src="https://img.shields.io/badge/-FastAPI-009688?style=flat&logo=fastapi&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-MLflow-3A8BBB?style=flat&logo=mlflow&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white"/>
+</p>
+
+#### 📊 Visualization & Analytics  
+<p align="left">
+  <img src="https://img.shields.io/badge/-Matplotlib-11557C?style=flat&logo=matplotlib&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-Seaborn-3776AB?style=flat&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-Plotly-3F4F75?style=flat&logo=plotly&logoColor=white"/>
 </p>
 
 ---
 
-### 🧠 About Me
-
-I'm a competitive, production-minded **Data Scientist** with a solid track record in international competitions and real-world projects. My work merges strong engineering practices with creative modeling techniques — turning raw data into actionable insights and scalable systems.
-
-I don't just build models. I architect **full-stack machine learning pipelines** that work — from messy data ingestion to polished predictions and meaningful impact.
-
----
-
-### 🛠️ Technical Arsenal
-
-- **Machine Learning & Deep Learning**: PyTorch, TensorFlow, Scikit-learn, CatBoost, LightGBM  
-- **Data Engineering**: SQL, Pandas, NumPy, Feature Engineering  
-- **Model Deployment**: FastAPI, Docker, Git, MLflow  
-- **Visualization & Storytelling**: Seaborn, Matplotlib, Plotly  
-- **Competition-Ready**: Kaggle Grand Playground Strategist | Ensemble Wizard | Top 1.2% Finisher
-
----
-
-### 🏆 Highlight Reel
-
-- 🥉 **EY Urban Heat Island (2025)**  
-  Ranked **3rd out of 2,076 global participants**, building a meta-ensemble for climate modeling and city planning.
-
-- 🧠 **Kaggle Mental Health (2024)**  
-  Top **1.2% out of 2,900**. Tackled mental health prediction with creative feature engineering on messy time series data.
-
-- 🔬 **Skin Cancer Detection (2024)**  
-  Developed a deep ensemble pipeline processing 500k+ medical images — ranked **top 28% globally** in ISIC challenge.
-
-- 🎥 **Cross-Camera Re-ID System**  
-  Built a production-ready, multi-camera person tracking system using YOLOv8 + OSNet — optimized for real-time processing.
-
----
-
-### 📫 Let's Connect
-
-- 📍 Location: Taxila, Punjab, Pakistan  
-- ✉️ Email: [baseerhassan512@gmail.com](mailto:baseerhassan512@gmail.com)  
-- 🔗 [LinkedIn](https://linkedin.com/in/baseer-hassan) | [GitHub](https://github.com/baseershah7) | [Kaggle](https://kaggle.com/baseershah)
-
----
-
-### ⚡ Fun Fact
-
-> I treat every dataset like a mystery waiting to be solved — no black boxes, no voodoo. Just raw patterns, deep modeling, and a sprinkle of dark humor along the way. 🕵️‍♂️📊
-
----
-
-_“Build models that don’t just win competitions — build models that survive production.”_
