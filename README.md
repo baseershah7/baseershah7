@@ -35,7 +35,7 @@ My background combines rigorous participation in global ML competitions with han
   <img src="https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white"/>
 </p>
 
-#### 📊 Visualization & Analytics  
+#### Visualization & Analytics  
 <p align="left">
   <img src="https://img.shields.io/badge/-Matplotlib-11557C?style=flat&logo=matplotlib&logoColor=white"/>
   <img src="https://img.shields.io/badge/-Seaborn-3776AB?style=flat&logo=python&logoColor=white"/>
