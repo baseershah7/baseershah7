@@ -2,7 +2,7 @@
 
 I'm a competitive, production-ready **Data Scientist** with a passion for building intelligent systems that actually work outside notebooks. I specialize in extracting deep insights from complex data, designing robust machine learning pipelines, and delivering solutions that are both impactful and scalable.
 
-My background combines rigorous participation in global ML competitions with hands-on experience building full-stack ML systems — from raw data to deployed inference APIs. Whether it's medical imaging, sensor fusion, time series, or structured data, I bring engineering precision and creative problem-solving to the table.
+My background combines meticuloues & stringent participation in global AI competitions with hands-on experience building full-stack ML systems — from raw data to deployed inference APIs. Whether it's medical imaging, sensor fusion, time series, or structured data, I bring engineering precision and creative problem-solving to the table.
 
 ---
 
@@ -29,6 +29,7 @@ My background combines rigorous participation in global ML competitions with han
 #### MLOps & Deployment  
 <p align="left">
   <img src="https://img.shields.io/badge/-FastAPI-009688?style=flat&logo=fastapi&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-Streamlit-009688?style=flat&logo=streamlit&logoColor=white"/>
   <img src="https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white"/>
   <img src="https://img.shields.io/badge/-MLflow-3A8BBB?style=flat&logo=mlflow&logoColor=white"/>
   <img src="https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white"/>
