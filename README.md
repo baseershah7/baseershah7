@@ -24,7 +24,8 @@ My background combines consecutive participation in global AI competitions with 
 <p align="left">
   <img src="https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=postgresql&logoColor=white"/>
   <img src="https://img.shields.io/badge/-Pandas-150458?style=flat&logo=pandas&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-Polars-150458?style=flat&logo=polars&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-Polars-150800?style=flat&logo=polars&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-GeoPandas-150100?style=flat&logo=geopandas&logoColor=white"/>
   <img src="https://img.shields.io/badge/-NumPy-013243?style=flat&logo=numpy&logoColor=white"/>
   <img src="https://img.shields.io/badge/-MySQL-005C84?style=flat&logo=mysql&logoColor=white"/>
 </p>
