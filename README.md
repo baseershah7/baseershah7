@@ -33,7 +33,7 @@ My background combines consecutive participation in global AI competitions with 
 #### MLOps & Deployment  
 <p align="left">
   <img src="https://img.shields.io/badge/-FastAPI-009688?style=flat&logo=fastapi&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-Streamlit-009688?style=flat&logo=streamlit&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-Streamlit-999688?style=flat&logo=streamlit&logoColor=white"/>
   <img src="https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white"/>
   <img src="https://img.shields.io/badge/-MLflow-3A8BBB?style=flat&logo=mlflow&logoColor=white"/>
   <img src="https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white"/>
