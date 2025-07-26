@@ -12,10 +12,10 @@ My background combines consecutive participation in global AI competitions with 
 <p align="left">
   <img src="https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-TensorFlow-F86F00?style=flat&logo=tensorflow&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-Scipy-FF8F00?style=flat&logo=scipy&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-Scipy-8CAAE6?style=flat&logo=scipy&logoColor=white"/>
   <img src="https://img.shields.io/badge/-Scikit--Learn-F7931E?style=flat&logo=scikit-learn&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-XGBoost-8BC34A?style=flat&logo=xgboost&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-XGBoost-017CEE?style=flat&logo=xgboost&logoColor=white"/>
   <img src="https://img.shields.io/badge/-LightGBM-8BC34A?style=flat&logo=lightgbm&logoColor=white"/>
   <img src="https://img.shields.io/badge/-CatBoost-FFCC00?style=flat&logo=catboost&logoColor=black"/>
 </p>
@@ -24,8 +24,8 @@ My background combines consecutive participation in global AI competitions with 
 <p align="left">
   <img src="https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=postgresql&logoColor=white"/>
   <img src="https://img.shields.io/badge/-Pandas-150458?style=flat&logo=pandas&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-Polars-150800?style=flat&logo=polars&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-GeoPandas-196650?style=flat&logo=geopandas&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-Polars-CD7925?style=flat&logo=polars&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-GeoPandas-1A6F8B?style=flat&logo=geopandas&logoColor=white"/>
   <img src="https://img.shields.io/badge/-NumPy-013243?style=flat&logo=numpy&logoColor=white"/>
   <img src="https://img.shields.io/badge/-MySQL-005C84?style=flat&logo=mysql&logoColor=white"/>
 </p>
