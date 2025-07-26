@@ -2,7 +2,11 @@
 
 I'm a competitive, production-ready **Data Scientist** with a passion for building intelligent systems that actually work outside notebooks. I specialize in extracting deep insights from complex data, designing robust machine learning pipelines, and delivering solutions that are both impactful and scalable.
 
+I refuse to settle for good enough even though i know perfect solutions dont exist in data science but that allows me to experiment with a variety of techniques and guarantees my growth as a data scientist and proves to be a good learning curve. 
+
 My background combines consecutive participation in global AI competitions with hands-on experience building full-stack ML systems — from raw data to deployed inference APIs. Whether it's medical imaging, sensor fusion, time series, or structured data, I bring engineering precision and creative problem-solving with a meticulous & stringent approach to the table.
+
+Passionate about satellite imagery with a focus on sustainable environment and healthcare applications.
 
 ---
 
