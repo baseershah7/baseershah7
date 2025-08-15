@@ -1,6 +1,6 @@
 ### BASEER HASSAN SHAH
 
-I'm a competitive, production-ready Data Scientist with a proven track record in global AI competitions, specializing in extracting deep insights from complex data and designing robust machine learning pipelines that deliver scalable, impactful solutions in real-world applications.
+I'm a competitive Data Scientist with a proven track record in global AI competitions, specializing in extracting deep insights from complex data and designing robust machine learning pipelines that deliver scalable, impactful solutions in real-world applications.
 
 I refuse to settle for good enough even though i know perfect solutions dont exist in data science but that allows me to experiment with a variety of techniques and guarantees my growth as a data scientist. 
 
