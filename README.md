@@ -4,7 +4,6 @@ I love solving complex problems and designing peak AI systems. I refuse to settl
 
 Passionate about satellite imagery with a focus on climate change and healthcare applications.
 
-'Building systems that last'
 
 -----
 
