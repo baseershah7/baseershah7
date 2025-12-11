@@ -42,14 +42,6 @@ Passionate about satellite imagery with a focus on climate change and healthcare
   <img src="https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white"/>
 </p>
 
-### GitHub Stats
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=baseershah7h&show_icons=true&theme=radical" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=baseershah7&layout=compact&theme=radical" height="180"/>
-</p>
-
-
 #### Visualization & Analytics  
 <p align="left">
   <img src="https://img.shields.io/badge/-Matplotlib-11557C?style=flat&logo=matplotlib&logoColor=white"/>
@@ -57,5 +49,11 @@ Passionate about satellite imagery with a focus on climate change and healthcare
   <img src="https://img.shields.io/badge/-Plotly-3F4F75?style=flat&logo=plotly&logoColor=white"/>
 </p>
 
+### GitHub Stats
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=baseershah7&show_icons=true&theme=radical" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=baseershah7&layout=compact&theme=radical" height="180"/>
+</p>
 ---
 
