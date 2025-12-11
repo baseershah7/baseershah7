@@ -1,8 +1,6 @@
 ### BASEER HASSAN SHAH
 
-I'm a competitive Data Scientist with a proven track record in global AI competitions, specializing in extracting deep insights from complex data and designing robust machine learning pipelines that deliver scalable, impactful solutions in real-world applications.
-
-I refuse to settle for good enough even though i know perfect solutions dont exist in data science but that allows me to experiment with a variety of techniques and guarantees my growth as a data scientist. 
+I love solving complex problems and designing peak AI systems. I refuse to settle for good enough even though i know perfect solutions dont exist in data science but that allows me to experiment with a variety of techniques and guarantees my growth as a data scientist. 
 
 Passionate about satellite imagery with a focus on climate change and healthcare applications.
 
@@ -43,6 +41,14 @@ Passionate about satellite imagery with a focus on climate change and healthcare
   <img src="https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white"/>
   <img src="https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white"/>
 </p>
+
+### GitHub Stats
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=baseershah7h&show_icons=true&theme=radical" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=baseershah7&layout=compact&theme=radical" height="180"/>
+</p>
+
 
 #### Visualization & Analytics  
 <p align="left">
