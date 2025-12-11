@@ -52,7 +52,7 @@ Passionate about satellite imagery with a focus on climate change and healthcare
 ### GitHub Stats
 
 <p align="left">
- <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=baseershah7&show_icons=true&theme=radical" height="180"/>
+ <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=baseershah7&show_icons=true&theme=dracula" height="180"/>
 </p>
 ---
 
