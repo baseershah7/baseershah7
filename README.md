@@ -1,6 +1,6 @@
 ### BASEER HASSAN SHAH
 
-I love solving complex problems and designing peak AI systems. I refuse to settle for good enough even though i know perfect solutions dont exist in data science but that allows me to experiment with a variety of techniques and guarantees my growth as a data scientist. 
+Love solving complex problems and designing peak AI systems. 
 
 Passionate about satellite imagery with a focus on climate change and healthcare applications.
 
