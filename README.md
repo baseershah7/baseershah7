@@ -2,8 +2,6 @@
 
 Love solving complex problems and designing peak AI systems. 
 
-Passionate about satellite imagery with a focus on climate change and healthcare applications.
-
 
 -----
 
